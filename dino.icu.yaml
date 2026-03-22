@@ -576,6 +576,11 @@ mail: # a page to share your email with orpheus
   type: CNAME
   value: cname.vercel-dns.com.
 
+melt: # alice@hackclub.cc
+  ttl: 600
+  type: CNAME
+  value: melt.hackclub.cc
+
 meta: # meta page
   ttl: 600
   type: CNAME
